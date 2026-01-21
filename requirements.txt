@@ -42,3 +42,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# Pandas for data analysis
+pandas
+
+# Astropy for physical quantities and units
+astropy
